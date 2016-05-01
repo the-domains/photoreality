@@ -1,0 +1,28 @@
+name: Photoreality
+favicon: null
+layout_spectrum: 0.44796877331100404
+typography_spectrum: 0.956910542678088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.19574432540684938
+  lightness: 0.4508943469263613
+  saturation: 0.4555518478155136
+  rhythmicContrast: 0.7112316489219666
+purpose: []
