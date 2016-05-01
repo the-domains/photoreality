@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Photoreality]]></title>
         <description><![CDATA[Photoreality]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photoreality/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 22:38:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 22:49:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photoreality/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rose Campion]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05058690-4d38-437a-988f-220137ac8004.jpg">]]></description>
-            <link>undefinedrose-campion/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37f7599a-1e6e-40ff-b1f0-710cb76ded65.jpg">]]></description>
+            <link>https://thegrid.ai/photoreality/rose-campion/index.html</link>
             <guid isPermaLink="false">59672c2d-1f35-4902-850b-45e3f38f41ce</guid>
-            <pubDate>Sun, 01 May 2016 22:38:31 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 22:49:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
