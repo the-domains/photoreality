@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T23:14:35.947Z'
-dateModified: '2016-05-01T23:14:15.148Z'
+datePublished: '2016-05-01T23:21:32.295Z'
+dateModified: '2016-05-01T23:14:41.052Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-rose-campion.md
